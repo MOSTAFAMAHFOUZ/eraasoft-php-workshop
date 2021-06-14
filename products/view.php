@@ -1,3 +1,3 @@
 <?php 
 
-echo "file with second branch";
+echo "file with second branch - and third";

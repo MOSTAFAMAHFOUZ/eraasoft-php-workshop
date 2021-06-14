@@ -5,7 +5,7 @@
             <a class="btn btn-success btn-lg" href="#" role="button">Add New User </a>
         </h3>
     </div>
-    <h1 class=" p-3 border display-4">  All Users  </h1>
+    <h1 class=" p-3 border display-4">  View All Users  </h1>
 
     <div class="container">
         <div class="row">
